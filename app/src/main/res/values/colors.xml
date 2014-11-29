@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_top_bar_color">#ff24292c</color>
+    <color name="join_group_text_color">#ff99c500</color>
+    <color name="youdao_check_color">#ff868686</color>
+    <color name="youdao_background_color">#fff0f0f0</color>
+    <color name="join_group_text_color_half">#7f99c500</color>
+</resources>
