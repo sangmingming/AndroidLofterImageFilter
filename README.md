@@ -1,6 +1,7 @@
 #Lofter Filters for Android
 
 this is a image filter that like instagram。
+
 it is a copy of Lofter's filter
 
 ## 构建
@@ -28,7 +29,9 @@ Blog:  [http://blog.isming.me](http://blog.isming.me)
 
 
 ## 说明
-项目so，以及创意均来自网易Lofter的android客户端，仅用于个人研究，请勿用于商业目的，否则后果自负。
+因为自己很喜欢玩拍照，所以也在用lofter分享自己的图片。使用过程中觉得滤镜还不错。就研究一下了。
+
+项目so文件，很多java代码，图片，以及创意均来自网易Lofter的android客户端，仅用于个人研究，请勿用于商业目的，否则后果自负。
 
 
 ## License
